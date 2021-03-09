@@ -1,0 +1,5 @@
+F:\WS\libraries\Library1\Library1\bin\Debug\Library1.dll
+F:\WS\libraries\Library1\Library1\bin\Debug\Library1.pdb
+F:\WS\libraries\Library1\Library1\obj\Debug\Library1.csprojAssemblyReference.cache
+F:\WS\libraries\Library1\Library1\obj\Debug\Library1.dll
+F:\WS\libraries\Library1\Library1\obj\Debug\Library1.pdb

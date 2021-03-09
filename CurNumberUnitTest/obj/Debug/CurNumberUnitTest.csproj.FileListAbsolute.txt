@@ -1,0 +1,15 @@
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\CurNumberUnitTest.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\CurNumberUnitTest.pdb
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Library1.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Library1.pdb
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\WS\libraries\Library1\CurNumberUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\WS\libraries\Library1\CurNumberUnitTest\obj\Debug\CurNumberUnitTest.csprojAssemblyReference.cache
+F:\WS\libraries\Library1\CurNumberUnitTest\obj\Debug\CurNumberUnitTest.csproj.CopyComplete
+F:\WS\libraries\Library1\CurNumberUnitTest\obj\Debug\CurNumberUnitTest.dll
+F:\WS\libraries\Library1\CurNumberUnitTest\obj\Debug\CurNumberUnitTest.pdb
